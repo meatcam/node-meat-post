@@ -1,0 +1,25 @@
+{
+  "name": "meat-post",
+  "version": "0.0.1",
+  "description": "Posts chat messages to a Meatspace related target",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/meatcam/node-meat-post.git"
+  },
+  "keywords": [
+    "meat",
+    "gif"
+  ],
+  "author": "Caleb Troughton <caleb@imakewebthings.com> (http://imakewebthings.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meatcam/node-meat-post/issues"
+  },
+  "homepage": "https://github.com/meatcam/node-meat-post",
+  "dependencies": {
+    "request": "~2.34.0",
+    "lodash": "~2.4.1"
+  }
+}

@@ -58,7 +58,7 @@ var Poster = function(options) {
     }, function(err, response, body) {
       this.sending = false;
       callback(err, response, body);
-    });
+    }.bind(this));
   };
 };
 

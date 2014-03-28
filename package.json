@@ -1,6 +1,6 @@
 {
   "name": "meat-post",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Posts chat messages to a Meatspace related target",
   "main": "index.js",
   "scripts": {},
